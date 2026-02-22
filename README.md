@@ -1,2 +1,2 @@
-![Ikona projektu](icon.png)
+![Ikona projektu](project_icon.png)
 In beta...
